@@ -7,6 +7,8 @@ public class Demo {
       System.out.println("Hello How are you Latest/////");
       
       System.out.println("Hello swati you are new...");
+		
+	 System.out.println("other deve changes....");	
 	}
 
 }
