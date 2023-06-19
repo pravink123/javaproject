@@ -11,6 +11,7 @@ public class Student {
 	 list.add("Suraj");
 	 list.add("Datta");
 	  System.out.println("Master changes......");
+	  System.out.println("Master conflict check ....changes......");
 		 System.out.println(list);
 	 System.out.println("Pravin Changes.....done by dev1..");
 }
