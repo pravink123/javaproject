@@ -10,8 +10,8 @@ public class Student {
 	 list.add("Pravin");
 	 list.add("Suraj");
 	 list.add("Datta");
-	 
-	 System.out.println(list);
+	  System.out.println("Master changes......");
+		 System.out.println(list);
 	 System.out.println("Pravin Changes.....done by dev1..");
 }
 }
